@@ -20,8 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window = UIWindow(frame: UIScreen.main.bounds)
         self.window?.rootViewController = StartPointViewController()
         self.window?.makeKeyAndVisible()
-        GMSServices.provideAPIKey("AIzaSyBrvDukyk2FnEe-ZNpUgXrbEoC43Yr3Fpw")
-        GMSPlacesClient.provideAPIKey("AIzaSyBrvDukyk2FnEe-ZNpUgXrbEoC43Yr3Fpw")
+
         return true
     }
 
