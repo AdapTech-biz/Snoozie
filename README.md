@@ -18,6 +18,7 @@ Save time manually entering your destination address. Leveraging the power of Go
 ![Snoozie App](https://res.cloudinary.com/xyd93/image/upload/v1555026119/App_Snapshots/Snoozie/3.jpg)
 ## Classic Alarm
 If your mornings don't require the full power of **Snoozie**, then set a classic **Snoozie** alarm.
+
 ![Snoozie App](https://res.cloudinary.com/xyd93/image/upload/v1555026119/App_Snapshots/Snoozie/4.jpg)
 
 > **Snoozie iOS version is near completion and the Android development will begin shortly after.**
