@@ -11,3 +11,14 @@ the travel time changed since the alarm was oringinally set. If the travel time 
 
 ## Auto-complete Address Search
 Save time manually entering your destination address. Leveraging the power of Google Places API, **Snoozie** provides real-time address search results to users.
+
+## Classic Alarm
+If your mornings don't require the full power of **Snoozie**, then set a classic **Snoozie** alarm.
+
+
+> **Snoozie iOS version is near completion and the Android development will begin shortly after.**
+
+> #### Developed by Xavier Davis, Cheif Software Engineer of AdapTech
+
+
+
